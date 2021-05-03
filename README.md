@@ -6,13 +6,10 @@ See it in action here: https://cmoyates.github.io/Dungeon-Generation-Demo/
 
 For a video showcase of the game click here: *Insert Link Here*
 
-## Techniques and Algorithms
-
-
 ## Credits
 Aside from the things mentioned below, everything was done by me.
 
-Music: "Dredd"  by Karl Casey @ White Bat Audio https://www.youtube.com/watch?v=jj2gHcSahKQ
+Music: "Dredd" by Karl Casey @ White Bat Audio https://www.youtube.com/watch?v=jj2gHcSahKQ
 
 Dungeon Generation Algorithm: u/phidinh6, developer of TinyKeep https://www.gamasutra.com/blogs/AAdonaac/20150903/252889/Procedural_Dungeon_Generation_Algorithm.php
 
