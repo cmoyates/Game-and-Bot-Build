@@ -6,14 +6,17 @@ See it in action here: https://cmoyates.github.io/Dungeon-Generation-Demo/
 
 For a video showcase of the game click here: *Insert Link Here*
 
+## Techniques and Algorithms
+
+
 ## Credits
 Aside from the things mentioned below, everything was done by me.
 
-Music: "Dredd"  by Karl Casey @ White Bat Audio
+Music: "Dredd"  by Karl Casey @ White Bat Audio https://www.youtube.com/watch?v=jj2gHcSahKQ
 
-Dungeon Generation Algorithm: u/phidinh6, developer of TinyKeep
+Dungeon Generation Algorithm: u/phidinh6, developer of TinyKeep https://www.gamasutra.com/blogs/AAdonaac/20150903/252889/Procedural_Dungeon_Generation_Algorithm.php
 
-Delaunay Triangulation Implementation: Delaunator-Sharp by nol1fe on GitHub
+Delaunay Triangulation Implementation: Delaunator-Sharp by nol1fe on GitHub https://github.com/nol1fe/delaunator-sharp
 
 Rule Tile and Dungeon Tile Sprites: https://github.com/Unity-Technologies/2d-extras
 
