@@ -2,7 +2,7 @@
 
 This is a small game made with Unity that demonstrates several of the techniques I learned in the final semester of my Computer Science degree.
 
-See it in action here: https://cmoyates.github.io/Genetic-Evolution-Demo-Build/
+See it in action here: https://cmoyates.github.io/Dungeon-Generation-Demo/
 
 For a video showcase of the game click here: *Insert Link Here*
 
