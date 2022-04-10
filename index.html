@@ -6,12 +6,6 @@
     <title>Unity WebGL Player | Game and Bot</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
-    <meta name="description" content="A simple 2D dungeon crawler made with Unity" />
-    <meta name="title" property="og:title" content="Game and Bot" />
-    <meta property="og:type" content="game" />
-    <meta name="image" property="og:image" content="https://i.imgur.com/XA2O5hm.png" />
-    <meta name="description" property="og:description" content="A simple 2D dungeon crawler made with Unity" />
-    <meta name="author" content="Cristopher Yates" />
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -28,7 +22,6 @@
         <div id="unity-fullscreen-button"></div>
         <div id="unity-build-title">Game and Bot</div>
       </div>
-      <p class="additional-comments"><br/>See the GitHub repository <a href="https://github.com/cmoyates/Game-and-Bot">here</a></p>
     </div>
     <script>
       var container = document.querySelector("#unity-container");
@@ -63,11 +56,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Dungeon Game.loader.js";
+      var loaderUrl = buildUrl + "/Game-and-Bot-Build.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Dungeon Game.data",
-        frameworkUrl: buildUrl + "/Dungeon Game.framework.js",
-        codeUrl: buildUrl + "/Dungeon Game.wasm",
+        dataUrl: buildUrl + "/Game-and-Bot-Build.data",
+        frameworkUrl: buildUrl + "/Game-and-Bot-Build.framework.js",
+        codeUrl: buildUrl + "/Game-and-Bot-Build.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Cristopher Yates",
         productName: "Game and Bot",
